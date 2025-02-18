@@ -18,8 +18,8 @@ public class pragram2 {
 		System.out.println(a);
 		*/
 		
-		//Approch 1 - if all the variables belongs to different data types
-//		/*int a = 100;
+		/*Approch 1 - if all the variables belongs to different data types
+    	int a = 100;
 		int b = 200;
 		int c = 400;
 		*/
